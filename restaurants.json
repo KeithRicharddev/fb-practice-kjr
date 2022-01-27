@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bolay",
+    "location": "Boca Raton FL",
+    "type": "Healthy American",
+    "price": "$$"
+  },
+  {
+    "name": "mortins the steakhouse",
+    "location": "Boca Raton FL",
+    "type": "American steakhouse",
+    "price": "$$$"
+  },
+  {
+    "name": "tap 42",
+    "location": "Boca Raton FL",
+    "type": "American burger",
+    "price": "$$"
+  },
+  {
+    "name": "firehouse sub",
+    "location": "Boca Raton FL",
+    "type": "American subs",
+    "price": "$$"
+  }
+]
