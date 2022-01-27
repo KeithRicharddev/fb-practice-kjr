@@ -1,6 +1,7 @@
 // import our restaurants
 const restaurants = require("./restaurants.json");
-console.log(restaurants[3].name);
+
+// import a set of tooks to talk to firebase and Firestore
 
 //connect to Firestore
 
